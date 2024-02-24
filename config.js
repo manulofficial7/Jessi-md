@@ -4,13 +4,13 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+94779529221', 'Mr.White Shadow', true]
+  ['94760069363', '©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
 
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['94760069363'] // Want some help?
+global.prems = ['94760069363'] // Premium user has unlimited limit
 
 // api key here okay
 global.lolkey = 'apikeymu'
