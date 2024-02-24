@@ -54,26 +54,26 @@ global.APIKeys = { // APIKey Here
 }
 
  global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
-  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
-  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
-  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
-  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+  'https://telegra.ph/file/2717975a4410096a24c0f.jpg', 'https://telegra.ph/file/ef84f5465117cd6d66c17.jpg',
+  'https://telegra.ph/file/9faeefd087f561f8996c7.jpg', 'https://telegra.ph/file/2717975a4410096a24c0f.jpg',
+  'https://telegra.ph/file/ef84f5465117cd6d66c17.jpg', 'https://telegra.ph/file/2717975a4410096a24c0f.jpg',
+  'https://telegra.ph/file/ef84f5465117cd6d66c17.jpg', 'https://telegra.ph/file/ef84f5465117cd6d66c17.jpg',
+  'https://telegra.ph/file/2717975a4410096a24c0f.jpg', 'https://telegra.ph/file/2717975a4410096a24c0f.jpg'
 ]
 
 // Sticker WM
-global.packname = `「 Cʀᴇᴀᴛᴇᴅ Bʏ ᴍʀ.ᴡʜɪᴛᴇ ꜱʜᴀᴅᴏᴡ 」`
+global.packname = `「 ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️ 」`
 global.botdate = `⫹⫺ Day`
 global.bottime = `ᴛɪᴍᴇ:`
-global.author = ''
+global.author = '©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠'
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ ᴍʀ.ᴡʜɪᴛᴇ ꜱʜᴀᴅᴏᴡ - 2023'
-global.bott = 'Jessi-md'
-global.nomorown = '94779529221'
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ-: ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️ - 2024'
+global.bott = 'Manu-md'
+global.nomorown = '94760069363'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
